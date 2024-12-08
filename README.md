@@ -1,2 +1,3 @@
 # projects
-This is a dump of projects for feedback for improvements in my knowledge
+
+I am placing my projects in this repository for feedback to help further my knowledge in the Python language. 
